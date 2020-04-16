@@ -1,7 +1,7 @@
 # Kaggle Mastery
 Being in the Data Science field its important that you keep practising your Problem Solving skills. Kaggle provides a platform to atleast practise the Feature Engineering & Moddelling aspect. Also, Kaggle provides a glimpse into Real World problems. To participate in Kaggle requires dedicated effort and focus to move up the progression and rank in any of the categories. Few months back I challenged myself to paticipate in Kaggle and move up ranks. In this Repository I plan to record all that I discover along the way. 
 
-Some Goals:
+## Goals:
 
 - Competitions (10)
 - Datasets Upload (10)
