@@ -19,6 +19,15 @@ Being in the Data Science field its important that you keep practising your Prob
 - [Completed Code: Introduction to Pandas Dataframes](https://www.kaggle.com/funxexcel/completed-code-introduction-to-pandas-dataframes)
 - [Working Code: Introduction to Pandas Dataframes)](https://www.kaggle.com/funxexcel/working-code-introduction-to-pandas-dataframes)
 
+### Competition Solutions for Learning
+
+#### Titanic Solution [Video Series](https://www.youtube.com/watch?v=CCCjYVJuwU4&list=PLN-u2zr6UoV8z7hbZb2WGNA1di6VdnUGU)
+- [Titanic Basic Solution with Logistic Regression](https://www.kaggle.com/funxexcel/titanic-basic-solution-with-logistic-regression)
+- [Titanic Solution : Random Forest](https://www.kaggle.com/funxexcel/titanic-solution-random-forest)
+- [Titanic Solution with basic H2O](https://www.kaggle.com/funxexcel/titanic-solution-with-basic-h2o)
+- [Titanic Solution with Auto H2O](https://www.kaggle.com/funxexcel/titanic-solution-with-auto-h2o)
+
+
 ### Getting Started Machine Learning Codes [Basic]
 - [P1 : sklearn Logistic Regression](https://www.kaggle.com/funxexcel/p1-sklearn-logistic-regression) | [Video](https://www.youtube.com/watch?v=tI_Pco7snZw&list=PLN-u2zr6UoV9ELCTv6n8310WJkZ-xwVi3&index=2&t=0s)
 - [P2 : Logistic Regression - hyperparameter tuning](https://www.kaggle.com/funxexcel/p2-logistic-regression-hyperparameter-tuning) | [Video](https://www.youtube.com/watch?v=pooXM9mM7FU&list=PLN-u2zr6UoV9ELCTv6n8310WJkZ-xwVi3&index=5&t=0s)
