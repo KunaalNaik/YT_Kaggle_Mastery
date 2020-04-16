@@ -3,9 +3,9 @@ Being in the Data Science field its important that you keep practising your Prob
 
 ## 0/ Goals:
 
-- Competitions (10)
-- Datasets Upload (10)
-- Notebooks (30)
+- Competitions (0/10)
+- Datasets Upload (2/10)
+- Notebooks (10/30)
 - Discussions (2 Discussions x 365 Days = 730 Discussions)
 
 ## 1/ Kaggle Datasets Uploaded 
