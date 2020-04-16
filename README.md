@@ -5,7 +5,7 @@ Being in the Data Science field its important that you keep practising your Prob
 
 - Competitions (0/10)
 - Datasets Upload (2/10)
-- Notebooks (10/30)
+- Notebooks (14/30)
 - Discussions (2 Discussions x 365 Days = 730 Discussions)
 
 ## 1/ Kaggle Datasets Uploaded 
@@ -21,7 +21,7 @@ Being in the Data Science field its important that you keep practising your Prob
 
 ### Competition Solutions for Learning
 
-#### Titanic Solution [Video Series](https://www.youtube.com/watch?v=CCCjYVJuwU4&list=PLN-u2zr6UoV8z7hbZb2WGNA1di6VdnUGU)
+#### Titanic Solution [Video Tutorials](https://www.youtube.com/watch?v=CCCjYVJuwU4&list=PLN-u2zr6UoV8z7hbZb2WGNA1di6VdnUGU)
 - [Titanic Basic Solution with Logistic Regression](https://www.kaggle.com/funxexcel/titanic-basic-solution-with-logistic-regression)
 - [Titanic Solution : Random Forest](https://www.kaggle.com/funxexcel/titanic-solution-random-forest)
 - [Titanic Solution with basic H2O](https://www.kaggle.com/funxexcel/titanic-solution-with-basic-h2o)
