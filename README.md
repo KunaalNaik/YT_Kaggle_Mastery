@@ -10,6 +10,9 @@ Being in the Data Science field its important that you keep practising your Prob
 - Notebooks (14/30)
 - Discussions (2 Discussions x 365 Days = 730 Discussions)
 
+### Important Links:
+- [Article on Using TPU on Kaggle](https://www.kaggle.com/docs/tpu) | [Sample Solution](https://www.kaggle.com/c/flower-classification-with-tpus)
+
 ## 1/ Kaggle Datasets Uploaded 
 
 - [Data Science YouTube Channel Collection to Learn](https://www.kaggle.com/funxexcel/data-science-youtube-channel-collection-to-learn)
