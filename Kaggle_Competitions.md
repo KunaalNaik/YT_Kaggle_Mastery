@@ -19,6 +19,8 @@ A group of competitions that help you improve your classification problem statem
 - [Instant Gratification](https://www.kaggle.com/c/instant-gratification)
 - [Online Product Sales](https://www.kaggle.com/c/online-sales/)
 - [Allstate Claim Prediction Challenge](https://www.kaggle.com/c/ClaimPredictionChallenge)
+- [KDD Cup 2012, Track 1](https://www.kaggle.com/c/kddcup2012-track1/overview)
+- [KDD Cup 2012, Track 2](https://www.kaggle.com/c/kddcup2012-track2/overview)
 
 ## 2/ Regression
 A group of competitions that help you improve your regression problem statements
