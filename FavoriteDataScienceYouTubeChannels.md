@@ -61,3 +61,4 @@
 59. [Data Science Festival, 2.09k](https://www.youtube.com/channel/UCB02fDSj9GR4rhb1APMNclw/videos)
 60. [Sigma Coding, 65k](https://www.youtube.com/channel/UCBsTB02yO0QGwtlfiv5m25Q)
 61. [Michael Galarnyk, 7.99k](https://www.youtube.com/channel/UC2QvKS5O6QhqaZi4LyAEUnA)
+62. [Data Talks, 5.41k] (https://www.youtube.com/channel/UCQTQ0AbOupKNxKKY-_x46OQ)
