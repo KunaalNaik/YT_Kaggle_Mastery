@@ -63,3 +63,4 @@
 61. [Michael Galarnyk, 7.99k](https://www.youtube.com/channel/UC2QvKS5O6QhqaZi4LyAEUnA)
 62. [Data Talks, 5.41k](https://www.youtube.com/channel/UCQTQ0AbOupKNxKKY-_x46OQ)
 63. [Paul Smith, 1.23k, Story Telling Videos](https://www.youtube.com/LeadwithaStory)
+64. [Data Professor, 10.7k](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
