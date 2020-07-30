@@ -15,7 +15,7 @@ A group of competitions that help you improve your classification problem statem
 - [Predicting Red Hat Business Value](https://www.kaggle.com/c/predicting-red-hat-business-value)
 - [Homesite Quote Conversion](https://www.kaggle.com/c/homesite-quote-conversion)
 - [Don't Get Kicked!***](https://www.kaggle.com/c/DontGetKicked)
- - [Starter Code, RF, Pipeline](https://www.kaggle.com/funxexcel/starter-code-don-t-get-kicked-rf-model)
+  - [Starter Code, RF, Pipeline](https://www.kaggle.com/funxexcel/starter-code-don-t-get-kicked-rf-model)
 - [Loan Default Prediction - Imperial College London](https://www.kaggle.com/c/loan-default-prediction)
 
 ### Advanced Competitions
