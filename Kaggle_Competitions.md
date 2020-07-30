@@ -48,6 +48,7 @@ A group of competitions that help you improve your time series forecasting probl
 ### Getting Started
 - [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-saless)
 
-
+## Links
+- [Other](https://farid.one/kaggle-solutions/)
 
 
