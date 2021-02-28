@@ -2,4 +2,3 @@ added 1 line
 
 second line 
 
-third line 
