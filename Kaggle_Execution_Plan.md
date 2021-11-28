@@ -15,11 +15,11 @@
 		- Check Accuracy
 	2. Iterate - Keep improving one part of solution with each iteration
 3. **Solve 5 Problem Statements**
-	- Classifcation
-	- Regression
-	- Time Series
-	- Clustering
-	- Text Classification
+	- Classification - Logistic Regression
+	- Regression - Linear Regression
+	- Time Series - ARIMA
+	- Clustering - K-Means
+	- Text Classification - Binary - Positive or Negative 
 
 ## Stage wise Execution:
 Stage 1: Submit one solution (Logistic Regression)
