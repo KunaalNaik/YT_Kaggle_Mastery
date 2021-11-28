@@ -1,6 +1,6 @@
 # Kaggle Plan
 
-## 3 
+## 3 Stages for Effective Problem Solving on Kaggle
 1. Set some timelines
 	1. Guideline - 1 x 2 x 3 Method
 		- 1 Problem Statement
@@ -26,17 +26,27 @@ Stage 1: Submit one solution (Logistic Regression)
 Stage 2: Feature Engineering (Missing Value, Outlier, Transformation, Validation Strategy, Evaluation Metric)
 Stage 3: All Models (Logistic Regression, Random Forest, Decision tree, Navie Bayes, SVM, Adaboost)
 
+## 5 Problem Statements
+1. Classification
+	- Data: https://www.kaggle.com/c/DontGetKicked
+	- Code: https://www.kaggle.com/funxexcel/dgk-base-solution-rf
+2. Regression
+	- Data: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+	- Code: Coming Soon
+2. Time Series
+	- Data: https://www.kaggle.com/rakannimer/air-passengers
+	- Code: Coming Soon
+4. Clustering
+	- Data: https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+	- Code: https://www.kaggle.com/funxexcel/p1-sklearn-k-means-example
+6. Text Classification
+	1. Data: https://www.kaggle.com/c/nlp-getting-started
+	2. Code: Coming Soon
 
-## Competitions
-1. Regression
-	1. https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-2. Classification
-	1. https://www.kaggle.com/c/DontGetKicked
+### Others
+1. Deep Learning with GPU
+	1. https://www.kaggle.com/learn/intro-to-deep-learning
+2. Getting Started with TPU 
+	1. https://www.kaggle.com/c/tpu-getting-started	
 3. Image Classification
 	1. https://www.kaggle.com/c/digit-recognizer
-4. Text Classification
-	1. https://www.kaggle.com/c/nlp-getting-started
-5. Deep Learning with GPU
-	1. https://www.kaggle.com/learn/intro-to-deep-learning
-6. Getting Started with TPU 
-	1. https://www.kaggle.com/c/tpu-getting-started	
