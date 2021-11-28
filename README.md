@@ -3,13 +3,6 @@ Being in the Data Science field its important that you keep practising your Prob
 
 **Start by Becoming a Contributor on Kaggle** [Video Link](https://youtu.be/6_mz4UzaY_k)
 
-## 0/ Goals:
-
-- Competitions (0/10)
-- Datasets Upload (2/10)
-- Notebooks (14/30)
-- Discussions (2 Discussions x 365 Days = 730 Discussions)
-
 ### Important Links:
 - [Article on Using TPU on Kaggle](https://www.kaggle.com/docs/tpu) | [Sample Solution](https://www.kaggle.com/c/flower-classification-with-tpus)
 
@@ -31,7 +24,6 @@ Being in the Data Science field its important that you keep practising your Prob
 - [Titanic Solution : Random Forest](https://www.kaggle.com/funxexcel/titanic-solution-random-forest)
 - [Titanic Solution with basic H2O](https://www.kaggle.com/funxexcel/titanic-solution-with-basic-h2o)
 - [Titanic Solution with Auto H2O](https://www.kaggle.com/funxexcel/titanic-solution-with-auto-h2o)
-
 
 ### Getting Started Machine Learning Codes [Basic]
 - [P1 : sklearn Logistic Regression](https://www.kaggle.com/funxexcel/p1-sklearn-logistic-regression) | [Video](https://www.youtube.com/watch?v=tI_Pco7snZw&list=PLN-u2zr6UoV9ELCTv6n8310WJkZ-xwVi3&index=2&t=0s)
