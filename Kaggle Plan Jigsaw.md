@@ -1,16 +1,30 @@
 # Kaggle Plan
 
-## Notes:
+## 3 
 1. Set some timelines
-	1. Guideline - 2 hours per day ~ 1 week - one problem
-2. Start with worst solutions 
-	1. Base solution
-3. Iterate and improve accuracy 
+	1. Guideline - 1 x 2 x 3 Method
+		- 1 Problem Statement
+		- 2 hours per day 
+		- 3 times per week
+2. Start with worst solutions
+	1. Base solution first 
+		- Treat Numerical Missing Values with Median
+		- Treat Categorical with Constant Strategy (fill N/A with "Missing")
+		- Transform Categorical using One Hot Encoding
+		- Build a Logistic Regression
+		- Check Accuracy
+	2. Iterate - Keep improving one part of solution with each iteration
+3. Solve 5 Problem Statements
+	- Classifcation
+	- Regression
+	- Time Series
+	- Clustering
+	- Text Classification
 
 ## Stage wise Execution:
-Stage 1: Submit one solution (log reg)
-Stage 2: Feature Engineering
-Stage 3: All Models (Linear,logistics,Random Forest,Decision tree,Navie Bayes, SVM,Adaboost)
+Stage 1: Submit one solution (Logistic Regression)
+Stage 2: Feature Engineering (Missing Value, Outlier, Transformation, Validation Strategy, Evaluation Metric)
+Stage 3: All Models (Logistic Regression, Random Forest, Decision tree, Navie Bayes, SVM, Adaboost)
 
 
 ## Competitions
