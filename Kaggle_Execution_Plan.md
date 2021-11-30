@@ -1,6 +1,6 @@
 # Kaggle Plan
 
-## 3 Methods to Sustain your Kaggle Problem Solving Journey
+## 3 Tips to Launch your Kaggle Problem Solving Journey
 1. **Set Goals & Intent**
 	1. Guideline - 1 x 2 x 3 Method
 		- 1 Problem Statement
