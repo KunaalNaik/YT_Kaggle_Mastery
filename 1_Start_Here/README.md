@@ -4,7 +4,7 @@
 
 1. **Classification** 
 	- Spaceship Titanic: https://www.kaggle.com/c/DontGetKicked
-	- Algorithm: (sklearn Logistic Regression)[https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html]
+	- Algorithm: [sklearn Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 2. **Regression** 
 	- House Prices: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 	sklearn Logistic Regression
