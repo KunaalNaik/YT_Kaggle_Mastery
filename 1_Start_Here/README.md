@@ -1,5 +1,7 @@
 # Objective : Solve 5 Projects on Kaggle (Tabular Data)
 
+## SMART Objective: Submit 5 Base Solutions within 5 weeks, by spending 6 hours each week.  
+
 ## Five Problem Statements
 
 1. **Classification** 
@@ -25,8 +27,8 @@
 1. Follow CRISP-DM framework
 2. End to End with Solution: Make One Submission per session
 3. Write solution with all basic methods 
-4. **Set Goals & Intent**
-	1. Guideline - 1 x 2 x 3 Method
+4. **Set Execution Goals & Intent**
+	1. Comittement - 1 x 2 x 3 Method
 		- 1 Problem Statement
 		- 2 hours per day 
 		- 3 times per week
